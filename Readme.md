@@ -1,6 +1,6 @@
 # Notes App
 
-![App Screenshot](app-screenshot.png) <!-- Add a screenshot of your app here -->
+![App Screenshot](app-screenshot.png) 
 
 This is a simple web application for taking and managing notes. Users can add, edit, and delete notes using this app.
 
@@ -33,4 +33,4 @@ This is a simple web application for taking and managing notes. Users can add, e
 
 ## License
 
-This project is licensed under the [MIT License](LICENSE).
+https://github.com/jenna-lab/Note-app/blob/main/License.md
