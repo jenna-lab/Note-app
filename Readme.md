@@ -1,6 +1,6 @@
 # Notes App
 
-![App Screenshot](app-screenshot.png) 
+![App Screenshot](/images/noteapp.png) 
 
 This is a simple web application for taking and managing notes. Users can add, edit, and delete notes using this app.
 
